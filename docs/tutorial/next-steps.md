@@ -55,12 +55,3 @@ So far we've just created a static HTML page. The next step is to make your page
 !!! tip "Use the minified code"
 
     When deploying your WebAR experiences, make sure to include the minified `encantar.min.js` file instead of the regular `encantar.js`. The latter is suitable for development. The former, for production.
-
-## Support my work
-
-If you came this far in the guide, WebAR probably excites you. It is definitely something you want. I know, it is awesome! The possibilities are endless. Even better than getting your creative juices boiling with enthusiasm is the feeling of joy I have for sharing this work with you.
-
-I develop encantar.js independently. Creating this WebAR engine requires a lot of time, effort, skill and specialized knowledge. Please support my work today, so that I can make it even more awesome!
-
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/alemart?logo=github&style=for-the-badge)](https://github.com/sponsors/alemart)
-[![Donate via Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/alemart)
