@@ -39,12 +39,7 @@ See also: [Guidelines for Images](guidelines-for-images.md).
 
 ## Can I bundle it using Vite, Webpack, etc?
 
-Static linking is not allowed according to the [LGPL](license.md). The inclusion of encantar.js in a web page using a separate script tag does not constitute static linking provided that [section 4](license.md#4-combined-works) of the license is met:
-
-```html
-<script src="path/to/encantar.js"></script>
-<script src="path/to/my-ar-experience.js"></script>
-```
+Yes if you comply with [section 4 of the LGPL](license.md#4-combined-works).
 
 ## Why do my models appear "laid down" in AR?
 
