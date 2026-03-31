@@ -30,7 +30,17 @@ Pick any demo below, or [browse the website](https://encantar.dev/demos) for mor
 
 ## Download
 
-Get started quickly with [the latest release](https://github.com/alemart/encantar-js/releases/latest) and run the build script via npm.
+Download and build [the latest release](https://github.com/alemart/encantar-js/releases/latest). Replace `VERSION` with ![GitHub Release](https://img.shields.io/github/v/release/alemart/encantar-js?label=%20&color=royalblue) on the command line:
+
+```
+# Download
+npm install alemart/encantar-js#VERSION
+cd node_modules/encantar
+
+# Build
+npm install
+npm run build
+```
 
 🪄 Support open-source AR. [Purchase your copy of the software](https://encantar.dev/buy) for production use.
 
@@ -40,9 +50,9 @@ Get started quickly with [the latest release](https://github.com/alemart/encanta
 * [API Spellbook](https://encantar.dev/api)
 * [FAQ](https://encantar.dev/faq)
 
-## Commercial support
+## Support
 
-👨‍💻 [Contact me](mailto:support@encantar.dev) for custom development or integration assistance.
+👨‍💻 [Contact me](mailto:support@encantar.dev) for library-specific questions or support services.
 
 ## About
 
