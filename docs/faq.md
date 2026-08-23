@@ -72,16 +72,11 @@ If you're unable to meet the requirements of the GPL, then you need the Professi
 <div style="text-align:center" markdown>
 !!! info "The Professional Edition is great for:"
 
-    👨‍💻 **Creatives** requiring brand control.
+    👨‍💻 **Innovators** using AR in various fields of activity
 
-    💼 **Agencies** doing proprietary client work.
+    💼 **Small agencies** doing proprietary client work
 
-    🛠️ **Freelancers** building proprietary products.
-
-    🎨 **Artists** creating non-profit or for-profit artwork.
-
-    🧑‍🏫 **Academics** using AR on the classroom or on research,<br>
-    under a separate [Academic License](#i-work-in-an-academic-institution-can-i-use-this-proprietary-edition).
+    🎨 **Artists &amp; creatives** requiring brand control
 
     [Buy Now](/buy){ .md-button .md-button--primary }
 </div>

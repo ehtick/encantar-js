@@ -1,6 +1,6 @@
 # encantar.js: GPU-accelerated Augmented Reality library for the web
 
-Enchant your users with high performance Augmented Reality experiences compatible with any modern web browser. Users don't need to download apps, and WebXR support isn't required.
+Enchant your users with high performance Augmented Reality experiences compatible with any modern web browser! Users don't need to download apps, and WebXR support isn't required.
 
 🧙‍♂️ Get started at <https://encantar.dev>
 
@@ -30,49 +30,13 @@ Pick any demo below, or [browse the website](https://encantar.dev/demos) for mor
 
 ## Download
 
-There are two editions: [Free](#free-edition) and [Professional](#professional-edition). They are functionally equivalent, but have [significant differences in usage rights](https://encantar.dev/faq#licensing).
+[Purchase a license](https://encantar.dev/buy) for production use, or use the library [under the GNU GPL with Watermark Notices](https://github.com/alemart/encantar-js/releases).
 
-### Free Edition
-
-[Download the Free Edition](#quick-start) for creating and distributing free and open-source projects, or for developing internal prototypes of non-free/proprietary projects (no distribution rights under the GPL).
-
-### Professional Edition
-
-[Purchase the Professional Edition](https://encantar.dev/faq#licensing) before distributing your non-free/proprietary projects to others (browser delivery counts as distribution). Use it in production.
-
-### Add-Ons
-
-[Get extras for rich AR experiences!](https://encantar.dev/addons)
-
-### Quick Start
-
-Get started with the Free Edition:
-
-1. Download and extract [encantar-free-VERSION.zip](https://github.com/alemart/encantar-js/releases)
-2. Download and run [Servez](https://greggman.github.io/servez), a simple local web server
-3. In *Folder to Serve*, specify the folder named `encantar-free-VERSION` extracted in step 1
-4. Change the *Port* to 8000
-5. Click on *Start* to launch the local web server
-
-Next, open <http://localhost:8000/demos/hello-aframe/video.html>. Also try the [different demos](http://localhost:8000/demos) on a mobile phone. Enjoy! 🪄
-
-When testing WebAR with a webcam, it's recommended to launch the web server using HTTPS.
-
-> [!TIP]
->
-> **Try online**
->
-> You can also [try the demos online](#demos)!
->
-> **Do you prefer the Command Line?**
-> 
-> `npx http-server -p 8000 /path/to/encantar-free-VERSION/`
-> 
-> The latest version of the library is ![GitHub Release](https://img.shields.io/github/v/release/alemart/encantar-js?label=%20&color=royalblue)
+For more information, read the [Licensing FAQ](https://encantar.dev/faq#licensing).
 
 ## Documentation
 
-* [Tutorial for aspiring wizards](https://encantar.dev/tutorial)
+* [Get started with encantar.js](https://encantar.dev/tutorial)
 * [API Spellbook](https://encantar.dev/api)
 * [FAQ](https://encantar.dev/faq)
 
