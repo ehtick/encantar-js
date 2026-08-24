@@ -190,6 +190,10 @@ The continued availability of this policy depends on good faith. If the total in
 
 No. You may not rebrand the Professional Edition of the library nor wrap it inside a product that offers similar core functionality or value. [You can't grant the special permission to others](#can-i-grant-that-special-permission-to-others). These restrictions apply even if your product includes additional features (such as a visual authoring tool for other creators), and even if it's offered as a Software as a Service (SaaS). The Professional Edition is not priced for the scale and value of platform-level redistribution. However, if you are interested in this WebAR technology, then we may be able to [reach a custom agreement](contact.md).
 
+### Can I backport new code to covered versions of the library?
+
+No. The special permission does not extend to the code of any versions of the library released after your update period. Thus, in order to use new code &mdash; and new features &mdash; you must either renew your purchase, or use the library under the GPL.
+
 ### Why pay for this library if it's open-source?
 
 Because you'll receive [benefits that are essential for professional proprietary work](#which-edition-should-i-pick). Furthermore, a commercial offering is vital to sustain open-source AR. Commercial funding backs this independently developed library that:
